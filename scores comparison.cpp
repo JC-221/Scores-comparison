@@ -1,5 +1,5 @@
 #include <iostream>
-#include <cmath>
+#include <cmath> //library to enable different calculations to work 
 using namespace std;
 
 
